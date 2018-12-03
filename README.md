@@ -8,12 +8,12 @@ Como profesor de React recibo muchas ofertas dirigidas a mis alumnos o a mi. Cad
 
 Este proyecto es una solución sencilla para resolver el problema, agrupando y homogeneizando ofertas de trabajo para programadores React en España.
 
-| Empresa empleadora | Tipo empresa | Años experiencia requeridos | Salario mínimo | Salario máximo | Lugar | Porcentaje remoto | Capa de datos | Azucar sintáctico | Testing | Backend | Url oferta or Email del reclutador |
-| --------------------  | -----------  | --------------------------  | -------------  | -------------  | ----------------------------------  | ----------------  | ------------  | ----------------  | ------  | ------  | --------------------------------- |
-| Belbex (Grupo CoStar) | Producto | 4 | 30000 | 52000 | Barrio Salamanca (Calle Serrano 47) | 20 | Redux | ES6 | Otro | Node | nsanchez@talentsearchpeople.com |
-| Nombre oculto | Producto | 5 | 30000 | 55000 | Madrid | 20 | GraphQL | ES6 | Jest | Node | teresa.quintana@e-frontiers.ie |
-| Ciber | Consultoria | 3 | 25000 | 35000 | C/ Vía de los Poblados 1 | 20 | Otra | Typescript | Otro | Java | ana.galego@ciberexperis.es |
-| CTI | Consultoria | 3 | 30000 | 36000 | Alcobendas | 0 | Redux | Elm | Otro | Java | rrhh@ctisoluciones.com |
+|    Empresa empleadora | Tipo empresa | Años experiencia | Salario mínimo | Salario máximo |                    Lugar | Porcentaje remoto | Capa de datos | Azucar sintáctico | Testing | Backend | Url oferta or Email del reclutador |
+| --------------------  | -----------  | ---------------  | -------------  | -------------  | -----------------------  | ----------------  | ------------  | ----------------  | ------  | ------  | --------------------------------- |
+| Belbex (Grupo CoStar) |     Producto |                4 | 30k€ | 52k€ | Barrio Salamanca, Madrid | 20% |         Redux |               ES6 |    Otro |    Node | [link](nsanchez@talentsearchpeople.com) |
+|         Nombre oculto |     Producto |                5 | 30k€ | 55k€ |                   Madrid | 20% |       GraphQL |               ES6 |    Jest |    Node | [link](teresa.quintana@e-frontiers.ie) |
+|                 Ciber |  Consultoria |                3 | 25k€ | 35k€ |        Hortaleza, Madrid | 20% |          Otra |        Typescript |    Otro |    Java | [link](ana.galego@ciberexperis.es) |
+|                   CTI |  Consultoria |                3 | 30k€ | 36k€ |       Alcobendas, Madrid | No |         Redux |               Elm |    Otro |    Java | [link](rrhh@ctisoluciones.com) |
 
 
 ### Contribuir
