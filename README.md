@@ -8,15 +8,17 @@ Como profesor de React recibo muchas ofertas dirigidas a mis alumnos o a mi. Cad
 
 Este proyecto es una solución sencilla para resolver el problema, agrupando y homogeneizando ofertas de trabajo para programadores React en España.
 
-|          Empresa empleadora | Tipo empresa | Años experiencia | Salario mínimo | Salario máximo |                    Lugar | Porcentaje remoto | Capa de datos | Azucar sintáctico | Testing | Backend |            Url o Email contacto |
-| --------------------------  | -----------  | ---------------  | -------------  | -------------  | -----------------------  | ----------------  | ------------  | ----------------  | ------  | ------  | ------------------------------ |
-|       Belbex (Grupo CoStar) |     Producto |                4 | 30k€ | 52k€ | Barrio Salamanca, Madrid | 20% |         Redux |               ES6 |    Otro |    Node | [link](mailto:nsanchez@talentsearchpeople.com) |
-|               Nombre oculto |     Producto |                5 | 30k€ | 55k€ |                   Madrid | 20% |       GraphQL |               ES6 |    Jest |    Node | [link](mailto:teresa.quintana@e-frontiers.ie) |
-|                       Ciber |  Consultoria |                3 | 25k€ | 35k€ |        Hortaleza, Madrid | 20% |          Otra |        Typescript |    Otro |    Java | [link](mailto:ana.galego@ciberexperis.es) |
-|                         CTI |  Consultoria |                3 | 30k€ | 36k€ |       Alcobendas, Madrid | No |         Redux |               Elm |    Otro |    Java | [link](mailto:rrhh@ctisoluciones.com) |
-|                    Bclubber |     Producto |                3 | 30k€ | 45k€ |        Las Rozas, Madrid | 40% |       GraphQL |        Typescript |    Jest |    Ruby | [link](mailto:juan.partida@bclubber.com) |
-|                    Spacefit |     Producto |                1 | 16k€ | 24k€ |         Ruzafa, Valencia | 40% |       GraphQL |        Typescript |    Jest |    Node | [link](https://blog.spacefit.app/jobs/) |
-| Irium Soluciones y Sistemas |  Consultoria |                3 | 28k€ | 40k€ |       Alcobendas, Madrid | No |         Redux |               ES6 | Jasmine |    Node | [link](mailto:kliendo@irium.es) |
+|          Empresa empleadora | Tipo empresa | Años experiencia | Salario mínimo | Salario máximo |                      Lugar | Porcentaje remoto | Capa de datos | Azucar sintáctico | Testing | Backend |            Url o Email contacto |
+| --------------------------  | -----------  | ---------------  | -------------  | -------------  | -------------------------  | ----------------  | ------------  | ----------------  | ------  | ------  | ------------------------------ |
+|       Belbex (Grupo CoStar) |     Producto |                4 | 30k€ | 52k€ |   Barrio Salamanca, Madrid | 20% |         Redux |               ES6 |    Otro |    Node | [link](mailto:nsanchez@talentsearchpeople.com) |
+|               Nombre oculto |     Producto |                5 | 30k€ | 55k€ |                     Madrid | 20% |       GraphQL |               ES6 |    Jest |    Node | [link](mailto:teresa.quintana@e-frontiers.ie) |
+|                       Ciber |  Consultoria |                3 | 25k€ | 35k€ |          Hortaleza, Madrid | 20% |          Otra |        Typescript |    Otro |    Java | [link](mailto:ana.galego@ciberexperis.es) |
+|                         CTI |  Consultoria |                3 | 30k€ | 36k€ |         Alcobendas, Madrid | No |         Redux |               Elm |    Otro |    Java | [link](mailto:rrhh@ctisoluciones.com) |
+|                    Bclubber |     Producto |                3 | 30k€ | 45k€ |          Las Rozas, Madrid | 40% |       GraphQL |        Typescript |    Jest |    Ruby | [link](mailto:juan.partida@bclubber.com) |
+|                    Spacefit |     Producto |                1 | 16k€ | 24k€ |           Ruzafa, Valencia | 40% |       GraphQL |        Typescript |    Jest |    Node | [link](https://blog.spacefit.app/jobs/) |
+| Irium Soluciones y Sistemas |  Consultoria |                3 | 28k€ | 40k€ |         Alcobendas, Madrid | No |         Redux |               ES6 | Jasmine |    Node | [link](mailto:kliendo@irium.es) |
+|                     Nexttic |     Producto |                4 | 40k€ | 48k€ | Pozuelo de Alarcón, Madrid | 20% |         Redux |               ES6 |   Karma |    Node | [link](mailto:fiore@nexttic.com) |
+|               Nombre oculto |  Consultoria |                1 | 30k€ | 40k€ |              Madrid Centro | No |         Redux |              Flow |    Jest |    Java | [link](mailto:ana.martin@madison.kay.com) |
 
 
 ### Contribuir
