@@ -23,6 +23,8 @@ Este proyecto es una solución sencilla para resolver el problema, agrupando y h
 |                 Profile Software Services |  Consultoria |                3 | 35k€ | 40k€ | San Sebastian de Los Reyes, Madrid | 20% |         Redux |               ES6 | Jest + Eznyme |    Java | [link](mailto:alberto.sanchez@sectorea.com) |
 | Nombre oculto (Software gestión notarial) |     Producto |                2 | 35k€ | 40k€ |   Parque Emp. Las Mercedes, Madrid | No |          Otra |              Otro |          Otro |    Java | [link](mailto:eperez@catenon.com) |
 |                                      Badi |     Producto |                4 | 40k€ | 50k€ |                          Barcelona | 4% |         Redux |              Otro |          Jest |    Ruby | [link](https://jobs.badi.com/jobs/149689-senior-frontend-engineer) |
+|                            Undefined Labs |     Producto |                3 | 55k€ | 75k€ |                  Recoletos, Madrid | 10% |       GraphQL |               ES6 |          Jest |  Python | [link](http://undefinedlabs.com/careers) |
+|                                   Keytree |  Consultoria |                2 | 25k€ | 45k€ |                   Gran Vía, Madrid | 40% |         Redux |               ES6 |          Otro |    Java | [link](mailto:nerea.decastro@keytree.es) |
 
 
 ### Contribuir
