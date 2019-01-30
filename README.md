@@ -27,6 +27,11 @@ Este proyecto es una solución sencilla para resolver el problema, agrupando y h
 |                                   Keytree |  Consultoria |                2 | 25k€ | 45k€ |                   Gran Vía, Madrid | 40% |         Redux |               ES6 |          Otro |    Java | [link](mailto:nerea.decastro@keytree.es) |
 |                                     Datio |  Consultoria |                2 | 30k€ | 40k€ |         Pozuelo de Alarcón, Madrid | 20% |         Redux |               ES6 |          Jest |    Java | [link](mailto:ilao@datiobd.com) |
 |                                   Xpertai |     Producto |                3 | 30k€ | 35k€ |                 Glòries, Barcelona | 20% |         Redux |               ES6 |          Jest |  Python | [link](mailto:oriol.caseny@walterspeople.com) |
+|                             Nombre oculto |  Consultoria |                2 | 28k€ | 34k€ |                        Sol, Madrid | 20% |         Redux |               ES6 |          Otro |    Java | [link](mailto:miguelaguado@pagepersonnel.es) |
+|                            Undefined Labs |     Producto |                3 | 55k€ | 75k€ |                  Recoletos, Madrid | 10% |       GraphQL |               ES6 |          Jest |  Python | [link](http://undefinedlabs.com/careers) |
+|                                   Keytree |  Consultoria |                2 | 25k€ | 45k€ |                   Gran Vía, Madrid | 40% |         Redux |               ES6 |          Otro |    Java | [link](mailto:nerea.decastro@keytree.es) |
+|                                     Datio |  Consultoria |                2 | 30k€ | 40k€ |         Pozuelo de Alarcón, Madrid | 20% |         Redux |               ES6 |          Jest |    Java | [link](mailto:ilao@datiobd.com) |
+|                                   Xpertai |     Producto |                3 | 30k€ | 35k€ |                 Glòries, Barcelona | 20% |         Redux |               ES6 |          Jest |  Python | [link](mailto:oriol.caseny@walterspeople.com) |
 
 
 ### Contribuir
