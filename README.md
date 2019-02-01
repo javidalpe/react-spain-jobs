@@ -8,8 +8,9 @@ Como profesor de React recibo muchas ofertas dirigidas a mis alumnos o a mi. Cad
 
 Este proyecto es una solución sencilla para resolver el problema, agrupando y homogeneizando ofertas de trabajo para programadores React en España.
 
-|                        Empresa empleadora | Tipo empresa | Años experiencia | Salario mínimo | Salario máximo |                              Lugar | Porcentaje remoto | Capa de datos | Azucar sintáctico |       Testing | Backend |                                       Url o Email contacto |
-| ----------------------------------------  | -----------  | ---------------  | -------------  | -------------  | ---------------------------------  | ----------------  | ------------  | ----------------  | ------------  | ------  | --------------------------------------------------------- |
+
+|                        Empresa empleadora | Tipo empresa | Años experiencia | Salario mínimo | Salario máximo |                              Lugar | Porcentaje remoto | Capa de datos | Azucar sintáctico |       Testing | Backend |                                                                             Url o Email contacto |
+| ----------------------------------------  | -----------  | ---------------  | -------------  | -------------  | ---------------------------------  | ----------------  | ------------  | ----------------  | ------------  | ------  | ----------------------------------------------------------------------------------------------- |
 |                     Belbex (Grupo CoStar) |     Producto |                4 | 30k€ | 52k€ |           Barrio Salamanca, Madrid | 20% |         Redux |               ES6 |          Otro |    Node | [link](mailto:nsanchez@talentsearchpeople.com) |
 |                             Nombre oculto |     Producto |                5 | 30k€ | 55k€ |                             Madrid | 20% |       GraphQL |               ES6 |          Jest |    Node | [link](mailto:teresa.quintana@e-frontiers.ie) |
 |                                     Ciber |  Consultoria |                3 | 25k€ | 35k€ |                  Hortaleza, Madrid | 20% |          Otra |        Typescript |          Otro |    Java | [link](mailto:ana.galego@ciberexperis.es) |
@@ -28,7 +29,8 @@ Este proyecto es una solución sencilla para resolver el problema, agrupando y h
 |                                     Datio |  Consultoria |                2 | 30k€ | 40k€ |         Pozuelo de Alarcón, Madrid | 20% |         Redux |               ES6 |          Jest |    Java | [link](mailto:ilao@datiobd.com) |
 |                                   Xpertai |     Producto |                3 | 30k€ | 35k€ |                 Glòries, Barcelona | 20% |         Redux |               ES6 |          Jest |  Python | [link](mailto:oriol.caseny@walterspeople.com) |
 |                             Nombre oculto |  Consultoria |                2 | 28k€ | 34k€ |                        Sol, Madrid | 20% |         Redux |               ES6 |          Otro |    Java | [link](mailto:miguelaguado@pagepersonnel.es) |
-|                                  YUKON IT |  Consultoria |                3 | 32k€ | 40k€ |                        Av. America | No |         Redux |              Otro |          Otro |     PHP | [link](mailto:nicole.ingrid@yukonit.com) |
+|                                  YUKON IT |  Consultoria |                3 | 32k€ | 40k€ |                Av. America, Madrid | No |         Redux |              Otro |          Otro |     PHP | [link](mailto:nicole.ingrid@yukonit.com) |
+|                  Empresa del sector Media |  Consultoria |                1 | 35k€ | 42k€ | San Sebastián de los Reyes, Madrid | 20% |         Redux |               ES6 |          Otro |    Java | [link](https://www.randstad.es/candidatos/ofertas-empleo/oferta/desarrollo-front-madrid-madrid-2014702/) |
 
 
 ### Contribuir
