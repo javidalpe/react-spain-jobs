@@ -32,6 +32,7 @@ Este proyecto es una solución sencilla para resolver el problema, agrupando y h
 |                                  YUKON IT |  Consultoria |                3 | 32k€ | 40k€ |                Av. America, Madrid | No |         Redux |              Otro |          Otro |     PHP | [link](mailto:nicole.ingrid@yukonit.com) |
 |                  Empresa del sector Media |  Consultoria |                1 | 35k€ | 42k€ | San Sebastián de los Reyes, Madrid | 20% |         Redux |               ES6 |          Otro |    Java | [link](https://www.randstad.es/candidatos/ofertas-empleo/oferta/desarrollo-front-madrid-madrid-2014702/) |
 |                                    ADIDAS |     Producto |                1 | 30k€ | 50k€ |                           Zaragoza | 20% |         Redux |               ES6 |       Jasmine |    Node | [link](https://careers.adidas-group.com/jobs/senior-engineer-frontend-javascript-187357?locale=en) |
+|                                    Opinno |  Consultoria |                3 | 30k€ | 45k€ |                             Madrid | 10% |          Otra |               ES6 |          Otro |  Python | [link](mailto:alba.monje@opinno.com) |
 
 ### Contribuir
 
