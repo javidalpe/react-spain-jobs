@@ -24,6 +24,7 @@ Este proyecto es una solución sencilla para resolver el problema, agrupando y h
 |                   Opinno |  Consultoria |                3 | 30k€ | 45k€ |                             Madrid | 10% |          Otra |               ES6 |    Otro |  Python | [link](mailto:alba.monje@opinno.com) |
 |        The Valley Talent |  Consultoria |                3 | 24k€ | 35k€ |                 Castellana, Madrid | No |       GraphQL |              Otro | Jasmine |    Node | [link](mailto:acardenas@thevalleytalent.es) |
 |  Consultora tecnológica  |  Consultoria |                2 | 25k€ | 40k€ |                 Alcobendas, Madrid | 1% |          Otra |              Otro |    Otro |    Java | [link](mailto:marya_lara_93@hotmail.com) |
+|  Megamedia Televisión SL |     Producto |                2 | 25k€ | 35k€ |                 Madrid. Las Tablas | No |         Redux |               ES6 |    Otro |    Node | [link](mailto:jizcue@megamedia.es) |
 
 ### Contribuir
 
