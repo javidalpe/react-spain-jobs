@@ -26,6 +26,8 @@ Este proyecto es una solución sencilla para resolver el problema, agrupando y h
 |     Consultora tecnológica  |  Consultoria |                2 | 25k€ | 40k€ |                 Alcobendas, Madrid | 1% |          Otra |              Otro |                  Otro |    Java | [link](mailto:marya_lara_93@hotmail.com) |
 |     Megamedia Televisión SL |     Producto |                2 | 25k€ | 35k€ |                 Madrid. Las Tablas | No |         Redux |               ES6 |                  Otro |    Node | [link](mailto:jizcue@megamedia.es) |
 | Empresa de Mobile Marketing |     Producto |                2 | 28k€ | 32k€ |            Bernabéu, Madrid Centro | 20% |          Otra |              Otro | react-testing-library |    Node | [link](mailto:acardenas@thevalleytalent.es) |
+|                      Beonit |  Consultoria |                2 | 20k€ | 35k€ |                    Elche, Alicante | 5% |         Redux |              Otro | react-testing-library |    Java | [link](mailto:mdelcastillo@beonit.es) |
+|               TalentoMOBILE |  Consultoria |                3 | 20k€ | 36k€ |          Gregorio Marañón , Madrid | 20% |         Redux |               ES6 |         Jest + Eznyme |    Node | [link](mailto:karla.ormeno@talentomobile.com ) |
 
 ### Contribuir
 
