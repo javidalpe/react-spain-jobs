@@ -30,8 +30,8 @@ Este proyecto es una solución sencilla para resolver el problema, agrupando y h
 |                    TalentoMOBILE |  Consultoria |                3 | 20k€ | 36k€ |          Gregorio Marañón , Madrid | 20% |         Redux |               ES6 |         Jest + Eznyme |    Node | [link](mailto:karla.ormeno@talentomobile.com ) |
 | Empresa de Marketing/Influencers |     Producto |                2 | 30k€ | 35k€ |                      Cuzco, Madrid | 50% |          Otra |        Typescript | react-testing-library |    Ruby | [link](mailto:william@hoonter.com) |
 |             RTVE (Media Jornada) |     Producto |                1 | 24k€ | 26k€ |               Torre España, Madrid | No |          Otra |              Otro | react-testing-library |    Node | [link](mailto:william@hoonter.com) |
-|                       atSistemas |  Consultoria |                3 | 30k€ | 45k€ |    Diferente ubicaciones en Madrid | 20% |          Otra |              Otro |                  Otro |    Otro | [link](mailto:cparedes@atsistemas.com) |
-
+|                       atSistemas |  Consultoria |                3 | 30k€ | 45k€ |   Diferentes ubicaciones en Madrid | 20% |          Otra |              Otro |                  Otro |    Otro | [link](mailto:cparedes@atsistemas.com) |
+|                           Zartis |     Producto |                4 | 40k€ | 50k€ |                       Goya, Madrid | 40% |         Redux |              Otro |                  Otro |    Node | [link](mailto:estefania@zartis.com) |
 ### Contribuir
 
 Si quieres publicar tu oferta de empleo [rellena este formulario](https://goo.gl/forms/3mShRHUI6LgUydXZ2).
