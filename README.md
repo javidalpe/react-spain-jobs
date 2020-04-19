@@ -1,3 +1,7 @@
+# Desactualizado. Última actualización Abril 2019.
+
+Descontinué este chulo proyecto en Abril de 2019. Si estás interesado en continuarlo, contacta conmigo. Encantado de pasar la antorcha. Por si tienes curiosidad, los datos se recogen mediante un formulario de Google Forms, y un pequeño script genera la tabla en markdown que aquí se muestra.
+
 # Empleos React en España
 
 Según la encuesta [State of JavaScript 2018](https://2018.stateofjs.com/), es un buen momento para adoptar React y Vue. El mercado también lo refleja y continuamente surgen nuevas ofertas para trabajar en React.
